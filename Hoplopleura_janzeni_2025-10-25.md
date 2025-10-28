@@ -123,7 +123,7 @@
         - Position: posteriorly
 
 ---
-## ERROR IN FEMALE GENITALIA: (Missing info. Complete sentence: "Genitalia (Fig. 2D) with well-sclerotized, broad subgenital plate with deep anterolateral indentation on each side") 
+## ERROR IN FEMALE GENITALIA: (Missing info. Complete sentence: "Genitalia (Fig. 2D) with well-sclerotized, broad subgenital plate with deep anterolateral indentation on each side". The broad subgenital plate is well-sclerotized not the female genitalia) 
 ## Genitalia
 
 **Raw Text**  _Genitalia with basal apodeme about twice as long as parameres_
