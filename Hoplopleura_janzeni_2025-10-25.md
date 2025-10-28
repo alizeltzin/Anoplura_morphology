@@ -1,7 +1,7 @@
 # Hoplopleura_janzeni_2025-10-25   2025-10-25 16:26
 
 ---
-
+## ERROR IN GENUS: (Genus not italicized)
 ## Genus
 
 **Raw Text**  _Hoplopleura_
@@ -11,7 +11,7 @@
 - Genus: Hoplopleura
 
 ---
-
+## ERROR IN SPECIES: (Species name not italicized)
 ## Species
 
 **Raw Text**  _Hoplopleura janzeni_
@@ -109,7 +109,7 @@
         - Position: terminally
 
 ---
-
+## ERROR IN SHAPE: ("narrow spur-like ridge" is a subpart and it is not describing the shape of the forecoxa)
 ## Forecoxa
 
 **Raw Text**  _forecoxae with narrow spur-like ridge posteriorly_
@@ -123,7 +123,7 @@
         - Position: posteriorly
 
 ---
-
+## ERROR IN FEMALE GENITALIA: (Missing info. Complete sentence: "Genitalia (Fig. 2D) with well-sclerotized, broad subgenital plate with deep anterolateral indentation on each side") 
 ## Genitalia
 
 **Raw Text**  _Genitalia with basal apodeme about twice as long as parameres_
