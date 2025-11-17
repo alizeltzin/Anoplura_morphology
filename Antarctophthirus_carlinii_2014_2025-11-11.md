@@ -11,6 +11,7 @@
 - Date: 2014-02, missing day
 
 ---
+## ERROR IN LAT/LONG: (Structures measures included in lat/long)
 
 ## Lat/Long
 
