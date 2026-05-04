@@ -1,0 +1,429 @@
+[
+    {
+        "text": "{\"text_file\": \"Lemurpediculus_robbinsi_2017.txt\"}"
+    },
+    {
+        "seta_counts": [
+            {
+                "species": "Lemurpediculus robbinsi",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "DPHS",
+                "seta_count": 1,
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Lemurpediculus robbinsi",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "DAcHS",
+                "seta_count": 1,
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Lemurpediculus robbinsi",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "DPOCHS",
+                "seta_count": 1,
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Lemurpediculus robbinsi",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "DPaHS",
+                "seta_count": "2 to 3",
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Lemurpediculus robbinsi",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "SHS",
+                "seta_count": 2,
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Lemurpediculus robbinsi",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "DMHS",
+                "seta_count": 3,
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Lemurpediculus robbinsi",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "ApHS",
+                "seta_count": "3 to 4",
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Lemurpediculus robbinsi",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "VPaHS",
+                "seta_count": 1,
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Lemurpediculus robbinsi",
+                "sex": "Male",
+                "body_region": "Thorax",
+                "seta_name": "DPTS",
+                "seta_count": 1,
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Lemurpediculus robbinsi",
+                "sex": "Male",
+                "body_region": "Thorax",
+                "seta_name": "DMsS",
+                "seta_count": 0,
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Lemurpediculus robbinsi",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "seta_name": "DCAS",
+                "seta_count": 30,
+                "side": "dorsal",
+                "rows": "1 row of 2 anteriorly, followed by 7 rows of 4"
+            },
+            {
+                "species": "Lemurpediculus robbinsi",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "seta_name": "DLAS",
+                "seta_count": 7,
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Lemurpediculus robbinsi",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "seta_name": "VCAS",
+                "seta_count": "23 to 28",
+                "side": "ventral",
+                "rows": "1 row of 4 anteriorly, followed by 5 rows of 3 to 4, and 2 rows of 2"
+            },
+            {
+                "species": "Lemurpediculus robbinsi",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "seta_name": "VLAS",
+                "seta_count": 6,
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Lemurpediculus robbinsi",
+                "sex": "Female",
+                "body_region": "Head",
+                "seta_name": "DPHS",
+                "seta_count": 1,
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Lemurpediculus robbinsi",
+                "sex": "Female",
+                "body_region": "Head",
+                "seta_name": "DAcHS",
+                "seta_count": 1,
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Lemurpediculus robbinsi",
+                "sex": "Female",
+                "body_region": "Head",
+                "seta_name": "DPOCHS",
+                "seta_count": 1,
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Lemurpediculus robbinsi",
+                "sex": "Female",
+                "body_region": "Head",
+                "seta_name": "DPaHS",
+                "seta_count": "2 to 3",
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Lemurpediculus robbinsi",
+                "sex": "Female",
+                "body_region": "Head",
+                "seta_name": "SHS",
+                "seta_count": 2,
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Lemurpediculus robbinsi",
+                "sex": "Female",
+                "body_region": "Head",
+                "seta_name": "DMHS",
+                "seta_count": 3,
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Lemurpediculus robbinsi",
+                "sex": "Female",
+                "body_region": "Head",
+                "seta_name": "ApHS",
+                "seta_count": "3 to 4",
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Lemurpediculus robbinsi",
+                "sex": "Female",
+                "body_region": "Head",
+                "seta_name": "VPaHS",
+                "seta_count": 1,
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Lemurpediculus robbinsi",
+                "sex": "Female",
+                "body_region": "Thorax",
+                "seta_name": "DPTS",
+                "seta_count": 1,
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Lemurpediculus robbinsi",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "seta_name": "DCAS",
+                "seta_count": 42,
+                "side": "dorsal",
+                "rows": "1 row of 2 anteriorly, followed by 8 rows of 4, and 1 row of 6"
+            },
+            {
+                "species": "Lemurpediculus robbinsi",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "seta_name": "TeAS",
+                "seta_count": 5,
+                "side": "dorsal",
+                "rows": "1 row of 5"
+            },
+            {
+                "species": "Lemurpediculus robbinsi",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "seta_name": "VCAS",
+                "seta_count": "28 to 35",
+                "side": "ventral",
+                "rows": "7 rows of 4 to 5"
+            }
+        ]
+    },
+    {
+        "antennae_segments": [
+            {
+                "species": "Lemurpediculus robbinsi",
+                "sex": "Male",
+                "antennal_segment_count": 5
+            },
+            {
+                "species": "Lemurpediculus robbinsi",
+                "sex": "Female",
+                "antennal_segment_count": null
+            }
+        ]
+    },
+    {
+        "body_length": [
+            {
+                "species": "Lemurpediculus robbinsi",
+                "sex": "Male",
+                "holotype_or_allotype": null,
+                "total_body_length": "0.99\u20131.16 mm",
+                "maximum_body_length": null,
+                "mean_body_length": "1.09 mm",
+                "range_of_body_lengths": "0.99\u20131.16 mm",
+                "sample_size": 4
+            },
+            {
+                "species": "Lemurpediculus robbinsi",
+                "sex": "Female",
+                "holotype_or_allotype": null,
+                "total_body_length": "1.43\u20131.63 mm",
+                "maximum_body_length": null,
+                "mean_body_length": "1.54 mm",
+                "range_of_body_lengths": "1.43\u20131.63 mm",
+                "sample_size": 3
+            }
+        ]
+    },
+    {
+        "head_width": [
+            {
+                "species": "Lemurpediculus robbinsi",
+                "sex": "Male",
+                "head_width": null,
+                "maximum_head_width": "0.150\u20130.163 mm",
+                "mean_head_width": "0.17 mm",
+                "range_of_head_widths": "0.150\u20130.163 mm",
+                "sample_size": 4
+            },
+            {
+                "species": "Lemurpediculus robbinsi",
+                "sex": "Female",
+                "head_width": null,
+                "maximum_head_width": "0.185\u20130.200 mm",
+                "mean_head_width": "0.194 mm",
+                "range_of_head_widths": "0.185\u20130.200 mm",
+                "sample_size": 3
+            }
+        ]
+    },
+    {
+        "thorax_width": [
+            {
+                "species": "Lemurpediculus robbinsi",
+                "sex": "Male",
+                "thorax_width": null,
+                "maximum_thorax_width": "0.193\u20130.228 mm",
+                "mean_thorax_width": "0.210 mm",
+                "range_of_thorax_widths": "0.193\u20130.228 mm",
+                "sample_size": 4
+            },
+            {
+                "species": "Lemurpediculus robbinsi",
+                "sex": "Female",
+                "thorax_width": null,
+                "maximum_thorax_width": "0.280\u20130.305 mm",
+                "mean_thorax_width": "0.290 mm",
+                "range_of_thorax_widths": "0.280\u20130.305 mm",
+                "sample_size": 3
+            }
+        ]
+    },
+    {
+        "sternite_counts": [
+            {
+                "species": "Lemurpediculus robbinsi",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "segment": "Abdomen",
+                "sternite_name": "Abdominal sternites",
+                "sternite_count": 0
+            }
+        ]
+    },
+    {
+        "tergite_counts": [
+            {
+                "species": "Lemurpediculus robbinsi",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "segment": null,
+                "tergite_name": null,
+                "tergite_count": 0
+            },
+            {
+                "species": "Lemurpediculus robbinsi",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "segment": null,
+                "tergite_name": "broad, curved tergite",
+                "tergite_count": 1
+            }
+        ]
+    },
+    {
+        "plate_counts": [
+            {
+                "species": "Lemurpediculus robbinsi",
+                "sex": "Male",
+                "body_region": "Thorax",
+                "plate_name": "Thoracic sternal plate",
+                "plate_count": 1
+            },
+            {
+                "species": "Lemurpediculus robbinsi",
+                "sex": "Male",
+                "body_region": "Genitalia",
+                "plate_name": "Subgenital plate",
+                "plate_count": 1
+            },
+            {
+                "species": "Lemurpediculus robbinsi",
+                "sex": "Female",
+                "body_region": "Genitalia",
+                "plate_name": "Subgenital plate",
+                "plate_count": 1
+            }
+        ]
+    },
+    {
+        "dpts_length": [
+            {
+                "species_of_the_louse": "Lemurpediculus robbinsi",
+                "sex_of_the_louse": "Male",
+                "DPTS_length": "0.117\u20130.130 mm",
+                "maximum_DPTS_length": "0.130 mm",
+                "mean_DPTS_length": "0.121 mm",
+                "range_of_DPTS_lengths": "0.117\u20130.130 mm",
+                "sample_size": 7
+            },
+            {
+                "species_of_the_louse": "Lemurpediculus robbinsi",
+                "sex_of_the_louse": "Female",
+                "DPTS_length": "0.136\u20130.143 mm",
+                "maximum_DPTS_length": "0.143 mm",
+                "mean_DPTS_length": "0.139 mm",
+                "range_of_DPTS_lengths": "0.136\u20130.143 mm",
+                "sample_size": 6
+            }
+        ]
+    },
+    {
+        "mesothracic_spiracle": [
+            {
+                "species": "Lemurpediculus robbinsi",
+                "sex": "Male",
+                "diameter": null,
+                "maximum_diameter": "0.028\u20130.033 mm",
+                "mean_diameter": "0.031 mm",
+                "range": "0.028\u20130.033 mm",
+                "sample_size": 7
+            },
+            {
+                "species": "Lemurpediculus robbinsi",
+                "sex": "Female",
+                "diameter": null,
+                "maximum_diameter": "0.030\u20130.032 mm",
+                "mean_diameter": "0.31 mm",
+                "range": "0.030\u20130.032 mm",
+                "sample_size": 6
+            }
+        ]
+    },
+    {
+        "denticle_counts": []
+    }
+]

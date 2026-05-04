@@ -1,0 +1,808 @@
+[
+    {
+        "text": "{\"text_file\": \"Hoplopleura_janzeni_2001.txt\"}"
+    },
+    {
+        "seta_counts": [
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "Apical head setae (ApHS)",
+                "count": "3 or 4",
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "Dorsal preantennal head seta (DPaHS)",
+                "count": "1",
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "Supraantennal head setae (SpAHS)",
+                "count": "2",
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "Sutural head setae (SuHS)",
+                "count": "2",
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "Dorsal marginal head setae (DMHS)",
+                "count": "3",
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "Long dorsal principal head seta (DPTS)",
+                "count": "1",
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "Short dorsal accessory head seta (DaCHS)",
+                "count": "1",
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "Dorsal posterior central head seta (DPoCHS)",
+                "count": "1",
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "Ventral preantennal head setae (VPaHS)",
+                "count": "2",
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "Ventral principal head seta (VPHS)",
+                "count": "1",
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Male",
+                "body_region": "Thorax",
+                "seta_name": "Dorsal principal thoracic seta (DPTS)",
+                "count": "1",
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Male",
+                "body_region": "Abdomen (sternite 2)",
+                "seta_name": "Sternal abdominal setae (StAS)",
+                "count": "6",
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Male",
+                "body_region": "Abdomen (sternite 3)",
+                "seta_name": "Sternal abdominal setae (StAS)",
+                "count": "6",
+                "side": "asymmetric (2 on one side, 3 on other, 1 central)",
+                "rows": null
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Male",
+                "body_region": "Abdomen (sternites 4-10)",
+                "seta_name": "Sternal abdominal setae (StAS)",
+                "count": "6-8",
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Male",
+                "body_region": "Abdomen (lateral to sternite 10)",
+                "seta_name": "Ventral lateral abdominal seta (VLAS)",
+                "count": "1",
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Male",
+                "body_region": "Abdomen (dorsal lobe medial to plate I)",
+                "seta_name": "Small seta",
+                "count": "1",
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Male",
+                "body_region": "Abdomen (tergites 1-2)",
+                "seta_name": "Tergal abdominal setae (TeAS)",
+                "count": "4",
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Male",
+                "body_region": "Abdomen (tergites 3-6)",
+                "seta_name": "Tergal abdominal setae (TeAS)",
+                "count": "8-11",
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Male",
+                "body_region": "Abdomen (subterminal)",
+                "seta_name": "Subterminal setae",
+                "count": "6",
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Male",
+                "body_region": "Abdomen (apical)",
+                "seta_name": "Apical setae",
+                "count": "8",
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Male",
+                "body_region": "Abdomen (paratergal plates II-VI)",
+                "seta_name": "Apical setae",
+                "count": "2",
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Male",
+                "body_region": "Abdomen (paratergal plates VII-VIII)",
+                "seta_name": "Apical setae",
+                "count": "2",
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Male",
+                "body_region": "Abdomen (subgenital plate)",
+                "seta_name": "Long setae inserted anteriorly",
+                "count": "2",
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Male",
+                "body_region": "Abdomen (subgenital plate)",
+                "seta_name": "Long seta inserted anteriorly",
+                "count": "1",
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Female",
+                "body_region": "Abdomen (sternite 2)",
+                "seta_name": "Sternal abdominal setae (StAS)",
+                "count": "9",
+                "side": "each side/central",
+                "rows": null
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Female",
+                "body_region": "Abdomen (sternite 3)",
+                "seta_name": "Sternal abdominal setae (StAS)",
+                "count": "7",
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Female",
+                "body_region": "Abdomen (sternites 4-16)",
+                "seta_name": "Sternal abdominal setae (StAS)",
+                "count": "5-7",
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Female",
+                "body_region": "Abdomen (dorsal lobe medial to plate I)",
+                "seta_name": "Small seta",
+                "count": "1",
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Female",
+                "body_region": "Abdomen (tergites 1, 2, 17)",
+                "seta_name": "Tergal abdominal setae (TeAS)",
+                "count": "4",
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Female",
+                "body_region": "Abdomen (tergites 3-16)",
+                "seta_name": "Tergal abdominal setae (TeAS)",
+                "count": "4-6",
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Female",
+                "body_region": "Abdomen (terminal)",
+                "seta_name": "Terminal seta",
+                "count": "1",
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Female",
+                "body_region": "Abdomen (subgenital plate)",
+                "seta_name": "Long setae inserted on anterior arm",
+                "count": "2",
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Female",
+                "body_region": "Abdomen (subgenital plate)",
+                "seta_name": "Small setae arranged centrally",
+                "count": "7",
+                "side": "central",
+                "rows": null
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Female",
+                "body_region": "Abdomen (subgenital plate)",
+                "seta_name": "Small seta on posterior margin",
+                "count": "1",
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Female",
+                "body_region": "Abdomen (gonopods VIII)",
+                "seta_name": "Small setae",
+                "count": "2 or 3",
+                "side": "posteromedially",
+                "rows": null
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Female",
+                "body_region": "Abdomen (gonopods IX)",
+                "seta_name": "Terminal seta",
+                "count": "1",
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Female",
+                "body_region": "Abdomen (anterior to gonopods IX)",
+                "seta_name": "Setae (row 1)",
+                "count": "4",
+                "side": "each side",
+                "rows": 1
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Female",
+                "body_region": "Abdomen (anterior to gonopods IX)",
+                "seta_name": "Setae (row 2)",
+                "count": "2",
+                "side": "each side",
+                "rows": 2
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Female",
+                "body_region": "Abdomen (anterior to gonopods IX)",
+                "seta_name": "Setae (row 3)",
+                "count": "1",
+                "side": "each side",
+                "rows": 3
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Female",
+                "body_region": "Abdomen (lateral to gonopods IX)",
+                "seta_name": "Seta",
+                "count": "1",
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Female",
+                "body_region": "Abdomen (between gonopods IX)",
+                "seta_name": "Intermediate setae",
+                "count": "several",
+                "side": "between",
+                "rows": null
+            }
+        ]
+    },
+    {
+        "antennae_segments": [
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Male",
+                "antennal_segment_count": 5
+            }
+        ]
+    },
+    {
+        "body_length": [
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Male",
+                "holotype_or_allotype": null,
+                "total_body_length": "1.02 mm",
+                "maximum_body_length": null,
+                "mean_body_length": null,
+                "range_body_lengths": null,
+                "sample_size": null
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Female",
+                "holotype_or_allotype": null,
+                "total_body_length": "1.23 mm",
+                "maximum_body_length": null,
+                "mean_body_length": null,
+                "range_body_lengths": null,
+                "sample_size": null
+            }
+        ]
+    },
+    {
+        "head_width": [
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Male",
+                "head_width": null,
+                "maximum_head_width": null,
+                "mean_head_width": null,
+                "range_of_head_widths": null,
+                "sample_size": null
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Female",
+                "head_width": null,
+                "maximum_head_width": null,
+                "mean_head_width": null,
+                "range_of_head_widths": null,
+                "sample_size": null
+            }
+        ]
+    },
+    {
+        "thorax_width": []
+    },
+    {
+        "sternite_counts": [
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "segment": 1,
+                "sternite_name": "sternite 1",
+                "sternite_count": 1
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "segment": 2,
+                "sternite_name": "sternites 2 and 3",
+                "sternite_count": 2
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "segment": 3,
+                "sternite_name": "sternite 4",
+                "sternite_count": 1
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "segment": 4,
+                "sternite_name": "sternites",
+                "sternite_count": 2
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "segment": 5,
+                "sternite_name": "sternites",
+                "sternite_count": 2
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "segment": 6,
+                "sternite_name": "sternites",
+                "sternite_count": 2
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "segment": 1,
+                "sternite_name": "sternite 1",
+                "sternite_count": 1
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "segment": 2,
+                "sternite_name": "sternites 2 and 3",
+                "sternite_count": 2
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "segment": 3,
+                "sternite_name": "sternites",
+                "sternite_count": 3
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "segment": 4,
+                "sternite_name": "sternites",
+                "sternite_count": 3
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "segment": 5,
+                "sternite_name": "sternites",
+                "sternite_count": 3
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "segment": 6,
+                "sternite_name": "sternites",
+                "sternite_count": 3
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "segment": 7,
+                "sternite_name": "sternite",
+                "sternite_count": 1
+            }
+        ]
+    },
+    {
+        "tergite_counts": [
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "segment": 2,
+                "tergite_name": "abdominal tergite",
+                "tergite_count": 1
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "segment": 3,
+                "tergite_name": "abdominal tergite",
+                "tergite_count": 1
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "segment": 4,
+                "tergite_name": "abdominal tergite",
+                "tergite_count": 1
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "segment": 5,
+                "tergite_name": "abdominal tergite",
+                "tergite_count": 1
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "segment": 6,
+                "tergite_name": "abdominal tergite",
+                "tergite_count": 1
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "segment": 7,
+                "tergite_name": "abdominal tergite",
+                "tergite_count": 1
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "segment": 2,
+                "tergite_name": "abdominal tergite",
+                "tergite_count": 2
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "segment": 3,
+                "tergite_name": "abdominal tergite",
+                "tergite_count": 3
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "segment": 4,
+                "tergite_name": "abdominal tergite",
+                "tergite_count": 3
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "segment": 5,
+                "tergite_name": "abdominal tergite",
+                "tergite_count": 3
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "segment": 6,
+                "tergite_name": "abdominal tergite",
+                "tergite_count": 3
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "segment": 7,
+                "tergite_name": "abdominal tergite",
+                "tergite_count": 2
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "segment": 8,
+                "tergite_name": "abdominal tergite",
+                "tergite_count": 1
+            }
+        ]
+    },
+    {
+        "plate_counts": [
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Male",
+                "body_region": "Thorax",
+                "plate_name": "Thoracic sternal plate",
+                "plate_count": 1
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Male",
+                "body_region": "Abdomen (Segment 1)",
+                "plate_name": "Sternite",
+                "plate_count": 1
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Male",
+                "body_region": "Abdomen (Segment 2)",
+                "plate_name": "Sternite",
+                "plate_count": 2
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Male",
+                "body_region": "Abdomen (Segment 3)",
+                "plate_name": "Sternite",
+                "plate_count": 1
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Male",
+                "body_region": "Abdomen (Segments 4-6)",
+                "plate_name": "Sternite",
+                "plate_count": 2
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Male",
+                "body_region": "Abdomen (Segments 2-7)",
+                "plate_name": "Tergite",
+                "plate_count": 1
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Male",
+                "body_region": "Abdomen (Segments 1-8)",
+                "plate_name": "Paratergal plate",
+                "plate_count": 8
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "plate_name": "Subgenital plate",
+                "plate_count": 1
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Female",
+                "body_region": "Thorax",
+                "plate_name": "Thoracic sternal plate",
+                "plate_count": 1
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Female",
+                "body_region": "Abdomen (Segment 1)",
+                "plate_name": "Sternite",
+                "plate_count": 1
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Female",
+                "body_region": "Abdomen (Segment 2)",
+                "plate_name": "Sternite",
+                "plate_count": 2
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Female",
+                "body_region": "Abdomen (Segments 3-6)",
+                "plate_name": "Sternite",
+                "plate_count": 3
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Female",
+                "body_region": "Abdomen (Segment 7)",
+                "plate_name": "Sternite",
+                "plate_count": 1
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Female",
+                "body_region": "Abdomen (Segment 2)",
+                "plate_name": "Tergite",
+                "plate_count": 2
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Female",
+                "body_region": "Abdomen (Segments 3-6)",
+                "plate_name": "Tergite",
+                "plate_count": 3
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Female",
+                "body_region": "Abdomen (Segment 7)",
+                "plate_name": "Tergite",
+                "plate_count": 2
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Female",
+                "body_region": "Abdomen (Segment 8)",
+                "plate_name": "Tergite",
+                "plate_count": 1
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Female",
+                "body_region": "Abdomen (Segments 1-8)",
+                "plate_name": "Paratergal plate",
+                "plate_count": 8
+            },
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "plate_name": "Subgenital plate",
+                "plate_count": 1
+            }
+        ]
+    },
+    {
+        "dpts_length": []
+    },
+    {
+        "mesothracic_spiracle": [
+            {
+                "species": "Hoplopleura janzeni",
+                "sex": "Male",
+                "diameter": "0.023 mm",
+                "maximum_diameter": null,
+                "mean_diameter": null,
+                "range": null,
+                "sample_size": null
+            }
+        ]
+    },
+    {
+        "denticle_counts": []
+    }
+]

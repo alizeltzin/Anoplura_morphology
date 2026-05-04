@@ -1,0 +1,532 @@
+[
+    {
+        "text": "{\"text_file\": \"Haemodipsus_brachylagy_2007.txt\"}"
+    },
+    {
+        "seta_counts": [
+            {
+                "species": "Haemodipsus brachylagi",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "apical head setae",
+                "count": "1-2",
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Haemodipsus brachylagi",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "anterior marginal head setae",
+                "count": "5-6",
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Haemodipsus brachylagi",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "ventral preantennal head setae",
+                "count": "4",
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Haemodipsus brachylagi",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "ventral principal head seta (VPHS)",
+                "count": "1",
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Haemodipsus brachylagi",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "ventral posterior marginal head seta (VPoMHS)",
+                "count": "1",
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Haemodipsus brachylagi",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "dorsal anterior head seta",
+                "count": "1",
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Haemodipsus brachylagi",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "supra-antennal head setae",
+                "count": "2",
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Haemodipsus brachylagi",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "sutural head setae (SuHS)",
+                "count": "2",
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Haemodipsus brachylagi",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "dorsal marginal head setae",
+                "count": "4",
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Haemodipsus brachylagi",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "dorsal principal head seta (DPHS)",
+                "count": "1",
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Haemodipsus brachylagi",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "dorsal accessory head seta (DaCHS)",
+                "count": "1",
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Haemodipsus brachylagi",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "dorsal posterior central head seta",
+                "count": "1",
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Haemodipsus brachylagi",
+                "sex": "Male",
+                "body_region": "Thorax",
+                "seta_name": "dorsal principal thoracic seta (DPTS)",
+                "count": "1",
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Haemodipsus brachylagi",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "seta_name": "dorsal central abdominal setae (DCAS)",
+                "count": "Row 1: 4, Rows 2-3: 5, Rows 4-7: 6-7, Row 8: 5, Row 9: 2",
+                "side": null,
+                "rows": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ]
+            },
+            {
+                "species": "Haemodipsus brachylagi",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "seta_name": "dorsal lateral abdominal setae (DLAS)",
+                "count": "Row 1: 1, Rows 2-5: 3, Row 6: 2, Rows 7-9: 1",
+                "side": "each side",
+                "rows": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ]
+            },
+            {
+                "species": "Haemodipsus brachylagi",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "seta_name": "ventral central abdominal setae (VCAS)",
+                "count": "Row 1: 3, Rows 2-7: 6-8, Rows 8-9: 4",
+                "side": null,
+                "rows": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ]
+            },
+            {
+                "species": "Haemodipsus brachylagi",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "seta_name": "ventral lateral abdominal setae (VLAS)",
+                "count": "Row 1: 2, Rows 2-4: 3, Row 5: 4, Row 6: 3, Row 7: 3-4",
+                "side": "each side",
+                "rows": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            },
+            {
+                "species": "Haemodipsus brachylagi",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "seta_name": "apical abdominal setae",
+                "count": "3-5",
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Haemodipsus brachylagi",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "seta_name": "paratergal setae (PrS)",
+                "count": "1-2",
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Haemodipsus brachylagi",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "seta_name": "dorsal central abdominal setae (DCAS)",
+                "count": "Row 1: 4, Rows 2-5: 6-8, Rows 6-8: 8-10, Row 9: 8, Row 10: 6",
+                "side": null,
+                "rows": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ]
+            },
+            {
+                "species": "Haemodipsus brachylagi",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "seta_name": "dorsal lateral abdominal setae (DLAS)",
+                "count": "Row 1: 2, Rows 2-3: 5, Rows 4-7: 3, Rows 8-9: 1",
+                "side": "each side",
+                "rows": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ]
+            },
+            {
+                "species": "Haemodipsus brachylagi",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "seta_name": "apical abdominal setae",
+                "count": "4",
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Haemodipsus brachylagi",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "seta_name": "ventral central abdominal setae (VCAS)",
+                "count": "Row 1: 4, Rows 2-6: 8, Rows 7-8: 6",
+                "side": null,
+                "rows": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8
+                ]
+            },
+            {
+                "species": "Haemodipsus brachylagi",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "seta_name": "ventral lateral abdominal setae (VLAS)",
+                "count": "3-4",
+                "side": "each side",
+                "rows": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ]
+            },
+            {
+                "species": "Haemodipsus brachylagi",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "seta_name": "post-VLAS setae",
+                "count": "3-4",
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Haemodipsus brachylagi",
+                "sex": "Female",
+                "body_region": "Genitalia",
+                "seta_name": "subgenital plate setae",
+                "count": "2",
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Haemodipsus brachylagi",
+                "sex": "Female",
+                "body_region": "Genitalia",
+                "seta_name": "pre-subgenital plate setae",
+                "count": "4-6",
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Haemodipsus brachylagi",
+                "sex": "Female",
+                "body_region": "Genitalia",
+                "seta_name": "gonopod VIII postero-central seta",
+                "count": "1",
+                "side": "each gonopod",
+                "rows": null
+            },
+            {
+                "species": "Haemodipsus brachylagi",
+                "sex": "Female",
+                "body_region": "Genitalia",
+                "seta_name": "gonopod VIII postero-medial setae",
+                "count": "6-8",
+                "side": "each gonopod",
+                "rows": null
+            },
+            {
+                "species": "Haemodipsus brachylagi",
+                "sex": "Female",
+                "body_region": "Genitalia",
+                "seta_name": "gonopod IX seta",
+                "count": "1",
+                "side": "each gonopod",
+                "rows": null
+            },
+            {
+                "species": "Haemodipsus brachylagi",
+                "sex": "Female",
+                "body_region": "Genitalia",
+                "seta_name": "postero-medial gonopod IX setae",
+                "count": "10-14",
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Haemodipsus brachylagi",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "seta_name": "posterior integument setae",
+                "count": "5-6",
+                "side": "each side",
+                "rows": null
+            }
+        ]
+    },
+    {
+        "antennae_segments": [
+            {
+                "species": "Haemodipsus brachylagi",
+                "sex": "Male",
+                "antennal_segment_count": 5
+            },
+            {
+                "species": "Haemodipsus brachylagi",
+                "sex": "Female",
+                "antennal_segment_count": 5
+            }
+        ]
+    },
+    {
+        "body_length": [
+            {
+                "species": "Haemodipsus brachylagi",
+                "sex": "Male",
+                "holotype_or_allotype": "Holotype",
+                "total_body_length": "1.35 mm",
+                "maximum_body_length": "1.43 mm",
+                "mean_body_length": "1.36 mm",
+                "range": "1.31\u20131.43 mm",
+                "sample_size": 3
+            },
+            {
+                "species": "Haemodipsus brachylagi",
+                "sex": "Female",
+                "holotype_or_allotype": "Allotype",
+                "total_body_length": "1.75 mm",
+                "maximum_body_length": "1.80 mm",
+                "mean_body_length": "1.67 mm",
+                "range": "1.51\u20131.80 mm",
+                "sample_size": 8
+            }
+        ]
+    },
+    {
+        "head_width": []
+    },
+    {
+        "thorax_width": [
+            {
+                "species": "Haemodipsus brachylagi",
+                "sex": "Male",
+                "thorax_width": null,
+                "maximum_thorax_width": null,
+                "mean_thorax_width": null,
+                "range_of_thorax_widths": null,
+                "sample_size": null
+            },
+            {
+                "species": "Haemodipsus brachylagi",
+                "sex": "Female",
+                "thorax_width": null,
+                "maximum_thorax_width": null,
+                "mean_thorax_width": null,
+                "range_of_thorax_widths": null,
+                "sample_size": null
+            }
+        ]
+    },
+    {
+        "sternite_counts": []
+    },
+    {
+        "tergite_counts": [
+            {
+                "species": "Haemodipsus brachylagi",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "segment": "Abdominal",
+                "name": null,
+                "count": 0
+            },
+            {
+                "species": "Haemodipsus brachylagi",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "segment": "Abdominal",
+                "name": null,
+                "count": 0
+            }
+        ]
+    },
+    {
+        "plate_counts": [
+            {
+                "species": "Haemodipsus brachylagi",
+                "sex": "Male",
+                "body_region": "Thorax",
+                "plate_name": "Thoracic sternal plate",
+                "plate_count": 1
+            },
+            {
+                "species": "Haemodipsus brachylagi",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "plate_name": "Paratergal plates",
+                "plate_count": 4
+            },
+            {
+                "species": "Haemodipsus brachylagi",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "plate_name": "Subgenital plate",
+                "plate_count": 1
+            },
+            {
+                "species": "Haemodipsus brachylagi",
+                "sex": "Female",
+                "body_region": "Thorax",
+                "plate_name": "Thoracic sternal plate",
+                "plate_count": 1
+            },
+            {
+                "species": "Haemodipsus brachylagi",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "plate_name": "Paratergal plates",
+                "plate_count": null
+            },
+            {
+                "species": "Haemodipsus brachylagi",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "plate_name": "Subgenital plate",
+                "plate_count": 1
+            }
+        ]
+    },
+    {
+        "dpts_length": [
+            {
+                "species": "Haemodipsus brachylagi",
+                "sex": "Male",
+                "dpts_length": "0.22 mm",
+                "maximum_dpts_length": null,
+                "mean_dpts_length": null,
+                "range_of_dpts_lengths": null,
+                "sample_size": null
+            }
+        ]
+    },
+    {
+        "mesothracic_spiracle": [
+            {
+                "species": "Haemodipsus brachylagi",
+                "sex": "Male",
+                "diameter": "0.025 mm",
+                "maximum_diameter": null,
+                "mean_diameter": null,
+                "range": null,
+                "sample_size": null
+            }
+        ]
+    },
+    {
+        "denticle_counts": []
+    }
+]

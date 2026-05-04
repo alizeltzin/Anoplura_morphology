@@ -1,0 +1,489 @@
+[
+    {
+        "text": "{\"text_file\": \"Lemurpediculus_claytoni_2017.txt\"}"
+    },
+    {
+        "seta_counts": [
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "DPHS",
+                "seta_count": 1,
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "DAChS",
+                "seta_count": 1,
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "DPoCHS",
+                "seta_count": 1,
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "DPAHS",
+                "seta_count": "2-3",
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "SHS",
+                "seta_count": 2,
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "DMHS",
+                "seta_count": 3,
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "APHS",
+                "seta_count": "3-4",
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "VPAHS",
+                "seta_count": 1,
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "OrS",
+                "seta_count": 1,
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Male",
+                "body_region": "Thorax",
+                "seta_name": "DPTS",
+                "seta_count": 1,
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Male",
+                "body_region": "Thorax",
+                "seta_name": "DMS",
+                "seta_count": 0,
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Male",
+                "body_region": "Thorax",
+                "seta_name": null,
+                "seta_count": 2,
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "seta_name": "DCAS",
+                "seta_count": 2,
+                "side": "each side",
+                "rows": 2
+            },
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "seta_name": "DCAS",
+                "seta_count": "4-5",
+                "side": "each side",
+                "rows": 7
+            },
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "seta_name": "DLAS",
+                "seta_count": 6,
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "seta_name": "VCAS",
+                "seta_count": 4,
+                "side": "each side",
+                "rows": 6
+            },
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "seta_name": "VCAS",
+                "seta_count": 2,
+                "side": "each side",
+                "rows": 2
+            },
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "seta_name": "VLAS",
+                "seta_count": 6,
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "seta_name": null,
+                "seta_count": 1,
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "seta_name": null,
+                "seta_count": 1,
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "seta_name": null,
+                "seta_count": 4,
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "seta_name": "DCAS",
+                "seta_count": 2,
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "seta_name": "DCAS",
+                "seta_count": "4-5",
+                "side": "each side",
+                "rows": 8
+            },
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "seta_name": "DCAS",
+                "seta_count": 5,
+                "side": "each side",
+                "rows": 1
+            },
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "seta_name": "TeAS",
+                "seta_count": null,
+                "side": "each side",
+                "rows": 1
+            },
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "seta_name": "VCAS",
+                "seta_count": "4-5",
+                "side": "each side",
+                "rows": 7
+            },
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Female",
+                "body_region": "Genitalia",
+                "seta_name": null,
+                "seta_count": "4-5",
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Female",
+                "body_region": "Genitalia",
+                "seta_name": null,
+                "seta_count": "3-4",
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Female",
+                "body_region": "Genitalia",
+                "seta_name": null,
+                "seta_count": "~18",
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Female",
+                "body_region": "Genitalia",
+                "seta_name": null,
+                "seta_count": 6,
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Female",
+                "body_region": "Genitalia",
+                "seta_name": null,
+                "seta_count": 2,
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Female",
+                "body_region": "Genitalia",
+                "seta_name": null,
+                "seta_count": "3-4",
+                "side": "each side",
+                "rows": null
+            }
+        ]
+    },
+    {
+        "antennae_segments": [
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Male",
+                "antennal_segment_count": 5
+            },
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Female",
+                "antennal_segment_count": 5
+            }
+        ]
+    },
+    {
+        "body_length": [
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Male",
+                "holotype_or_allotype": null,
+                "total_body_length": null,
+                "maximum_body_length": "1.20 mm",
+                "mean_body_length": "1.16 mm",
+                "range_body_lengths": "1.08\u20131.20 mm",
+                "sample_size": 3
+            },
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Female",
+                "holotype_or_allotype": null,
+                "total_body_length": null,
+                "maximum_body_length": "1.66 mm",
+                "mean_body_length": null,
+                "range_body_lengths": "1.65\u20131.66 mm",
+                "sample_size": 2
+            }
+        ]
+    },
+    {
+        "head_width": [
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Male",
+                "head_width": null,
+                "maximum_head_width": "0.166\u20130.185 mm",
+                "mean_head_width": "0.173 mm",
+                "range_of_head_widths": "0.166\u20130.185 mm",
+                "sample_size": 3
+            },
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Female",
+                "head_width": null,
+                "maximum_head_width": "0.201\u20130.212 mm",
+                "mean_head_width": null,
+                "range_of_head_widths": "0.201\u20130.212 mm",
+                "sample_size": 2
+            }
+        ]
+    },
+    {
+        "thorax_width": [
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Male",
+                "thorax_width": null,
+                "maximum_thorax_width": "0.233\u20130.257 mm",
+                "mean_thorax_width": "0.248 mm",
+                "range_of_thorax_widths": "0.233\u20130.257 mm",
+                "sample_size": 3
+            },
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Female",
+                "thorax_width": null,
+                "maximum_thorax_width": "0.285\u20130.295 mm",
+                "mean_thorax_width": null,
+                "range_of_thorax_widths": "0.285\u20130.295 mm",
+                "sample_size": 2
+            }
+        ]
+    },
+    {
+        "sternite_counts": [
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "segment": "All abdominal segments",
+                "sternite_name": "sternites",
+                "sternite_count": "absent"
+            }
+        ]
+    },
+    {
+        "tergite_counts": [
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "segment": null,
+                "name": "broad, curved tergite",
+                "tergite_count": 1
+            }
+        ]
+    },
+    {
+        "plate_counts": [
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Male",
+                "body_region": "Thorax",
+                "plate_name": "Thoracic sternal plate",
+                "plate_count": 1
+            },
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "plate_name": "Tergites, sternites, and paratergal plates",
+                "plate_count": 0
+            },
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Male",
+                "body_region": "Genitalia",
+                "plate_name": "Subgenital plate",
+                "plate_count": 1
+            },
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "plate_name": "Tergite",
+                "plate_count": 1
+            },
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Female",
+                "body_region": "Genitalia",
+                "plate_name": "Subgenital plate",
+                "plate_count": 1
+            }
+        ]
+    },
+    {
+        "dpts_length": [
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Male",
+                "dpts_length": "0.120\u20130.127 mm",
+                "max_dpts_length": "0.127 mm",
+                "mean_dpts_length": "0.124 mm",
+                "dpts_range": "0.120\u20130.127 mm",
+                "sample_size": 3
+            },
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Female",
+                "dpts_length": "0.137 mm",
+                "max_dpts_length": "0.137 mm",
+                "mean_dpts_length": "0.137 mm",
+                "dpts_range": "0.137 mm",
+                "sample_size": 1
+            }
+        ]
+    },
+    {
+        "mesothracic_spiracle": [
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Male",
+                "diameter": null,
+                "maximum_diameter": "0.021\u20130.032 mm",
+                "mean_diameter": "0.028 mm",
+                "range": "0.021\u20130.032 mm",
+                "sample_size": 6
+            },
+            {
+                "species": "Lemurpediculus claytoni",
+                "sex": "Female",
+                "diameter": null,
+                "maximum_diameter": "0.032\u20130.036 mm",
+                "mean_diameter": "0.35 mm",
+                "range": "0.032\u20130.036 mm",
+                "sample_size": 4
+            }
+        ]
+    },
+    {
+        "denticle_counts": []
+    }
+]

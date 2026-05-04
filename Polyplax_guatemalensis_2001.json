@@ -1,0 +1,939 @@
+[
+    {
+        "text": "{\"text_file\": \"Polyplax_guatemalensis_2001.txt\"}"
+    },
+    {
+        "seta_counts": [
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "DAnHS",
+                "seta_count": 1,
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "DPaHS",
+                "seta_count": 2,
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "SpAtHS",
+                "seta_count": 1,
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "SuHS",
+                "seta_count": 1,
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "DMHS",
+                "seta_count": 1,
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "DPoCHS",
+                "seta_count": 1,
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "DPhS",
+                "seta_count": 1,
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "DAcHS",
+                "seta_count": 1,
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "ApHS",
+                "seta_count": 1,
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "AnMHS",
+                "seta_count": 2,
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "VPaHS",
+                "seta_count": 2,
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "body_region": "Head",
+                "seta_name": "VPhS",
+                "seta_count": 1,
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "body_region": "Thorax",
+                "seta_name": "DPTS",
+                "seta_count": null,
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "body_region": "Abdomen (Sternites 1-3)",
+                "seta_name": "StAS",
+                "seta_count": 4,
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "body_region": "Abdomen (Sternite 2 central)",
+                "seta_name": "StAS",
+                "seta_count": 2,
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "body_region": "Abdomen (Sternites 4-7)",
+                "seta_name": "StAS",
+                "seta_count": 6,
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "body_region": "Abdomen (Ventral Lateral)",
+                "seta_name": "VLAS",
+                "seta_count": 1,
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "body_region": "Abdomen (Tergite 1)",
+                "seta_name": "TeAS",
+                "seta_count": 2,
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "body_region": "Abdomen (Tergite 2)",
+                "seta_name": "TeAS",
+                "seta_count": 4,
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "body_region": "Abdomen (Tergite 3)",
+                "seta_name": "TeAS",
+                "seta_count": 12,
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "body_region": "Abdomen (Tergites 4-8)",
+                "seta_name": "TeAS",
+                "seta_count": "18-24",
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "body_region": "Abdomen (Tergite 9)",
+                "seta_name": "TeAS",
+                "seta_count": 0,
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "body_region": "Abdomen (Dorsal Lateral)",
+                "seta_name": "DLAS",
+                "seta_count": 1,
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "body_region": "Paratergal plates (I-VI)",
+                "seta_name": "Apical setae",
+                "seta_count": 2,
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "body_region": "Paratergal plates (I-VI)",
+                "seta_name": "Ventral seta",
+                "seta_count": 1,
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "body_region": "Paratergal plates (I)",
+                "seta_name": "Central setae",
+                "seta_count": "2-3",
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "body_region": "Paratergal plates (VII)",
+                "seta_name": "Apical setae",
+                "seta_count": 2,
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "body_region": "Subgenital plate",
+                "seta_name": "Subgenital setae",
+                "seta_count": 10,
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "body_region": "Head",
+                "seta_name": "DAnHS",
+                "seta_count": 1,
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "body_region": "Head",
+                "seta_name": "DPaHS",
+                "seta_count": 2,
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "body_region": "Head",
+                "seta_name": "SpAtHS",
+                "seta_count": 1,
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "body_region": "Head",
+                "seta_name": "SuHS",
+                "seta_count": 1,
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "body_region": "Head",
+                "seta_name": "DMHS",
+                "seta_count": 1,
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "body_region": "Head",
+                "seta_name": "DPoCHS",
+                "seta_count": 1,
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "body_region": "Head",
+                "seta_name": "DPhS",
+                "seta_count": 1,
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "body_region": "Head",
+                "seta_name": "DAcHS",
+                "seta_count": 1,
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "body_region": "Head",
+                "seta_name": "ApHS",
+                "seta_count": 1,
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "body_region": "Head",
+                "seta_name": "AnMHS",
+                "seta_count": 2,
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "body_region": "Head",
+                "seta_name": "VPaHS",
+                "seta_count": 2,
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "body_region": "Head",
+                "seta_name": "VPhS",
+                "seta_count": 1,
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "body_region": "Abdomen (Sternites 1-3)",
+                "seta_name": "StAS",
+                "seta_count": 4,
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "body_region": "Abdomen (Sternite 2 central)",
+                "seta_name": "StAS",
+                "seta_count": 2,
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "body_region": "Abdomen (Sternites 4-12)",
+                "seta_name": "StAS",
+                "seta_count": "6-7",
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "body_region": "Abdomen (Ventral Lateral)",
+                "seta_name": "VLAS",
+                "seta_count": 1,
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "body_region": "Abdomen (Tergite 1)",
+                "seta_name": "TeAS",
+                "seta_count": 2,
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "body_region": "Abdomen (Tergite 2)",
+                "seta_name": "TeAS",
+                "seta_count": 4,
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "body_region": "Abdomen (Tergites 3-12)",
+                "seta_name": "TeAS",
+                "seta_count": "6-9",
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "body_region": "Abdomen (Tergite 13)",
+                "seta_name": "TeAS",
+                "seta_count": 6,
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "body_region": "Abdomen (Dorsal Lateral)",
+                "seta_name": "DLAS",
+                "seta_count": 1,
+                "side": "each side",
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "body_region": "Paratergal plates (I)",
+                "seta_name": "Central setae",
+                "seta_count": "2-3",
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "body_region": "Subgenital plate",
+                "seta_name": "Subgenital setae",
+                "seta_count": 2,
+                "side": null,
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "body_region": "Genitalia (Gonopods VIII)",
+                "seta_name": "Gonopod VIII setae",
+                "seta_count": 2,
+                "side": "each",
+                "rows": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "body_region": "Genitalia (Gonopods IX)",
+                "seta_name": "Gonopod IX setae",
+                "seta_count": 1,
+                "side": "each",
+                "rows": null
+            }
+        ]
+    },
+    {
+        "antennae_segments": [
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "antennal_segment_count": 5
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "antennal_segment_count": 5
+            }
+        ]
+    },
+    {
+        "body_length": [
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "holotype_or_allotype": "Holotype",
+                "total_body_length": "1.325 mm",
+                "maximum_body_length": "1.525 mm",
+                "mean_body_length": "1.396 mm",
+                "range_of_body_lengths": "1.300-1.525 mm",
+                "sample_size": 35
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "holotype_or_allotype": "Allotype",
+                "total_body_length": "1.725 mm",
+                "maximum_body_length": "1.950 mm",
+                "mean_body_length": "1.782 mm",
+                "range_of_body_lengths": "1.575-1.950 mm",
+                "sample_size": 41
+            }
+        ]
+    },
+    {
+        "head_width": [
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "head_width": null,
+                "maximum_head_width": null,
+                "mean_head_width": null,
+                "range_of_head_widths": null,
+                "sample_size_head_width": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "head_width": null,
+                "maximum_head_width": null,
+                "mean_head_width": null,
+                "range_of_head_widths": null,
+                "sample_size_head_width": null
+            }
+        ]
+    },
+    {
+        "thorax_width": [
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "thorax_width": null,
+                "maximum_thorax_width": null,
+                "mean_thorax_width": null,
+                "range_of_thorax_widths": null,
+                "sample_size": null
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "thorax_width": null,
+                "maximum_thorax_width": null,
+                "mean_thorax_width": null,
+                "range_of_thorax_widths": null,
+                "sample_size": null
+            }
+        ]
+    },
+    {
+        "sternite_counts": [
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "segment": 1,
+                "sternite_name": null,
+                "sternite_count": 1
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "segment": 2,
+                "sternite_name": null,
+                "sternite_count": 1
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "segment": 3,
+                "sternite_name": null,
+                "sternite_count": 2
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "segment": 4,
+                "sternite_name": null,
+                "sternite_count": 1
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "segment": 5,
+                "sternite_name": null,
+                "sternite_count": 1
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "segment": 6,
+                "sternite_name": null,
+                "sternite_count": 1
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "segment": 7,
+                "sternite_name": null,
+                "sternite_count": 1
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "segment": 1,
+                "sternite_name": null,
+                "sternite_count": 1
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "segment": 2,
+                "sternite_name": null,
+                "sternite_count": 1
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "segment": 3,
+                "sternite_name": null,
+                "sternite_count": 2
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "segment": 4,
+                "sternite_name": null,
+                "sternite_count": 2
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "segment": 5,
+                "sternite_name": null,
+                "sternite_count": 2
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "segment": 6,
+                "sternite_name": null,
+                "sternite_count": 2
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "segment": 7,
+                "sternite_name": null,
+                "sternite_count": 2
+            }
+        ]
+    },
+    {
+        "tergite_counts": [
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "segment": 1,
+                "tergite_name": "tergite 1",
+                "tergite_count": 1
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "segment": 2,
+                "tergite_name": "tergite 2",
+                "tergite_count": 2
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "segment": 2,
+                "tergite_name": "tergite 3",
+                "tergite_count": 2
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "segment": 3,
+                "tergite_name": "tergite 4",
+                "tergite_count": 1
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "segment": 4,
+                "tergite_name": "tergite 5",
+                "tergite_count": 1
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "segment": 5,
+                "tergite_name": "tergite 6",
+                "tergite_count": 1
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "segment": 6,
+                "tergite_name": "tergite 7",
+                "tergite_count": 1
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "segment": 7,
+                "tergite_name": "tergite 8",
+                "tergite_count": 1
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "body_region": "Abdomen",
+                "segment": 8,
+                "tergite_name": "tergite 9",
+                "tergite_count": 1
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "segment": 1,
+                "tergite_name": "tergite 1",
+                "tergite_count": 1
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "segment": 2,
+                "tergite_name": "tergite 2",
+                "tergite_count": 2
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "segment": 2,
+                "tergite_name": "tergite 3",
+                "tergite_count": 2
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "segment": 3,
+                "tergite_name": "tergite 4",
+                "tergite_count": 1
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "segment": 4,
+                "tergite_name": "tergite 5",
+                "tergite_count": 2
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "segment": 4,
+                "tergite_name": "tergite 6",
+                "tergite_count": 2
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "segment": 5,
+                "tergite_name": "tergite 7",
+                "tergite_count": 2
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "segment": 5,
+                "tergite_name": "tergite 8",
+                "tergite_count": 2
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "segment": 6,
+                "tergite_name": "tergite 9",
+                "tergite_count": 2
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "segment": 6,
+                "tergite_name": "tergite 10",
+                "tergite_count": 2
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "segment": 7,
+                "tergite_name": "tergite 11",
+                "tergite_count": 2
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "segment": 7,
+                "tergite_name": "tergite 12",
+                "tergite_count": 2
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "body_region": "Abdomen",
+                "segment": 8,
+                "tergite_name": "tergite 13",
+                "tergite_count": 1
+            }
+        ]
+    },
+    {
+        "plate_counts": [
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "body_region": "Abdomen (segments 2-8)",
+                "plate_name": "Paratergal plates",
+                "plate_count": 7
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "body_region": "Abdomen (segments 2-8)",
+                "plate_name": "Paratergal plates",
+                "plate_count": 7
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "body_region": "Thorax",
+                "plate_name": "Thoracic sternal plate",
+                "plate_count": 1
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "body_region": "Abdomen (segment 6)",
+                "plate_name": "Subgenital plate",
+                "plate_count": 1
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "body_region": "Thorax",
+                "plate_name": "Thoracic sternal plate",
+                "plate_count": 1
+            },
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Female",
+                "body_region": "Abdomen (segment 6)",
+                "plate_name": "Subgenital plate",
+                "plate_count": 1
+            }
+        ]
+    },
+    {
+        "dpts_length": [
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "DPTS_length": "0.14 mm",
+                "maximum_DPTS_length": null,
+                "mean_DPTS_length": null,
+                "range_DPTS_lengths": null,
+                "sample_size_DPTS": null
+            }
+        ]
+    },
+    {
+        "mesothracic_spiracle": [
+            {
+                "species": "Polyplax guatemalensis",
+                "sex": "Male",
+                "diameter": "0.024 mm",
+                "maximum_diameter": null,
+                "mean_diameter": null,
+                "range": null,
+                "sample_size": null
+            }
+        ]
+    },
+    {
+        "denticle_counts": []
+    }
+]
